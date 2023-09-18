@@ -1,18 +1,18 @@
 {
   "name": "internship",
   "version": "1.0.0",
-  "description": "ROAS Project",
+  "description": "REST Project",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Software works"
   },
   "repository": {
     "type": "git",
-    "url": "TEyo15"
+    "url": "https://github.com/TEyo15/Simple-weather-forecast-app.git"
   },
   "keywords": [
     "---"
   ],
   "author": "Timothy Eyo",
-  "license": "ISC"
+  "license": "MIT license"
 }
